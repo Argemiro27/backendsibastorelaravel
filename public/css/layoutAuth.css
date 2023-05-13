@@ -1,0 +1,34 @@
+body{
+    height: 100vh;
+    background-color: #0d1116 !important;
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+.card{
+    background-color: #161c23 !important;
+    color:#90949f;
+}
+
+.navbar-nav {
+    flex-direction: column;
+}
+
+.navbar-collapse {
+    width: 100%;
+}
+
+.navbar-nav .nav-item {
+    width: 100%;
+    text-align: center;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: .5rem 0;
+}
+
+.btn.btn-primary.submit{
+    background-color: #0ca581 !important;
+    border: none;
+    color: #afeddd !important;
+    position: absolute;
+}
